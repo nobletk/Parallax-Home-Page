@@ -9,3 +9,4 @@ This repository contains the source code for a visually captivating homepage bui
 - Elegant Typography: Clean and modern typography to enhance readability.
 - Smooth Scroll: Fluid scroll behavior for seamless navigation.
 
+* To visualize the page follow this [link](https://nobletk.github.io/Parallax-Home-Page/) to my git page.
