@@ -327,6 +327,10 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
+  .nav-link {
+    font-size: 1.4rem;
+  }
+
   .hero-title {
     font-size: 3rem;
   }
